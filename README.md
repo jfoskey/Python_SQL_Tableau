@@ -1,5 +1,5 @@
 # Python_SQL_Tableau
-Integrating Python, SQL, and Tableau to measure absenteeism in the worplace
+Integrating Python, SQL, and Tableau to measure absenteeism in the workplace
 -We will start working on the ‘Absenteeism_new_data.csv’ file and take it to a usable state in a machine learning algorithm.
 -Develop a model that will predict the probability of an individual being excessively absent from work.
 -This will be a logistic regression model. Numerous machine learning tools and techniques will help us at this stage. At the end, we will store our work as a Python module that we will call ‘absenteeism_module’ and will thus preserve it in a form suitable for further analysis.
